@@ -11,19 +11,19 @@ relatively secure push mechanisms for feed sharing and management.
 
 == Description ==
 
-Feedback is standard developed in the frame of iCamp project. To be able to understand the point just
-imagine you are subscribed to different newspapers, and each newspaper sends an e-mail to you
-whenever something new happens, and whenever you open your inbox you see some mails coming
-from different newspapers, which means in your inbox you hold an aggregated content of different
-newspapers. So, feedback plug-in for Wordpress enables you to use such mechanism for blogs, in our
-example the subscription was one way, but in our case each blog owner can subscribe and can be
-subscribed by others. If you subscribe other people’s blogs, whenever a user posts something, your
-blog is “notified” and you get the updated content, which enables you to reach an aggregated content
+FeedBack is a standard inspired by PingBack, and designed to establish relatively secure push 
+mechanisms for feed sharing and management. Feedback is standard developed in the frame of 
+iCamp project (See http://www.icamp.eu). To be able to understand the point, just imagine you are subscribed to different newspapers,
+and each newspaper sends an e-mail to you whenever something new happens, and whenever you open your
+inbox you see some mails coming from different newspapers, which means in your inbox you hold an aggregated
+content of different newspapers. So, feedback plug-in for Wordpress enables you to use such mechanism for blogs, in our
+example the subscription was one way, but in feedback case each blog owner can subscribe and can be
+subscribed by others. If you subscribe other people's blogs, whenever a user posts something, your
+blog is "notified" and you get the updated content, which enables you to reach an aggregated content
 provided by other blogs from your own blog. It is important to note that a blog that you are subscribed
-to is called as “Channel”, and the content it provides to you is called as “feed”, whenever someone
-wants to subscribe your blog, he sends you a “subscription request”, or whenever someone wants you
-to get subscribed to him, he sends you a “subscription offer”. Below you will see how to use this plugin
-and more other functionalities provided to you.
+to is called as "Channel", and the content it provides to you is called as "feed", whenever someone
+wants to subscribe your blog, he sends you a "subscription request", or whenever someone wants you
+to get subscribed to him, he sends you a "subscription offer". Please see the tutorial in plugin folder for more information.
 
 
 == Installation ==
